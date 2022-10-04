@@ -1,0 +1,7 @@
+D:\Conestoga\.Semester1\wcf\Calculator\Calculator\bin\Calculator.dll.config
+D:\Conestoga\.Semester1\wcf\Calculator\Calculator\bin\Calculator.dll
+D:\Conestoga\.Semester1\wcf\Calculator\Calculator\bin\Calculator.pdb
+D:\Conestoga\.Semester1\wcf\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Conestoga\.Semester1\wcf\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Conestoga\.Semester1\wcf\Calculator\Calculator\obj\Debug\Calculator.dll
+D:\Conestoga\.Semester1\wcf\Calculator\Calculator\obj\Debug\Calculator.pdb

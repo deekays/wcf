@@ -1,0 +1,8 @@
+D:\Conestoga\.Semester1\wcf\Calculator\CalculatorClient\bin\Debug\CalculatorClient.exe.config
+D:\Conestoga\.Semester1\wcf\Calculator\CalculatorClient\bin\Debug\CalculatorClient.exe
+D:\Conestoga\.Semester1\wcf\Calculator\CalculatorClient\bin\Debug\CalculatorClient.pdb
+D:\Conestoga\.Semester1\wcf\Calculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.AssemblyReference.cache
+D:\Conestoga\.Semester1\wcf\Calculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.SuggestedBindingRedirects.cache
+D:\Conestoga\.Semester1\wcf\Calculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.CoreCompileInputs.cache
+D:\Conestoga\.Semester1\wcf\Calculator\CalculatorClient\obj\Debug\CalculatorClient.exe
+D:\Conestoga\.Semester1\wcf\Calculator\CalculatorClient\obj\Debug\CalculatorClient.pdb
